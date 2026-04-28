@@ -1,0 +1,78 @@
+# ─── SECRETOS Y CREDENCIALES ───
+.env
+.env.local
+.env.*.local
+.streamlit/secrets.toml
+*.pem
+*.key
+secrets/
+!.env.example
+
+# ─── ENTORNOS VIRTUALES Y PYTHON ───
+venv/
+.venv/
+env/
+ENV/
+.python-version
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ─── PAQUETES Y BUILDS ───
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+.pip-cache/
+
+# ─── TESTING Y JUPYTER ───
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+.ipynb_checkpoints/
+
+# ─── SELENIUM Y WEBDRIVERS ───
+.wdm/
+chromedriver*
+geckodriver*
+msedgedriver*
+
+# ─── ESTRATEGIA DE DATOS (Intermedios) ───
+data/raw_docs/
+data/clean_docs/
+data/markdown_docs/
+data/chunks.json
+
+# ─── LOGS, TEMPORALES Y EDITORES ───
+*.log
+logs/
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.cache/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── SISTEMA OPERATIVO Y BACKUPS ───
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+*_backup/
+*_old/
+*.old
+draft/

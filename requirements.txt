@@ -1,0 +1,28 @@
+# ============================================================
+# DEPENDENCIAS — Sistema Q&A Banco de Occidente (Gemini)
+# Instalar con: pip install -r requirements.txt
+# ============================================================
+
+# ── WEB SCRAPING ─────────────────────────────────────────────
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+selenium==4.27.1
+webdriver-manager==4.0.2
+
+# ── EXTRACCIÓN DE PDFs ───────────────────────────────────────
+pypdf==5.1.0
+
+# ── PROCESAMIENTO DE TEXTO ───────────────────────────────────
+scikit-learn==1.5.2
+
+# ── LLM FRAMEWORK + GEMINI ───────────────────────────────────
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-google-genai==2.0.8
+
+# ── INTERFAZ WEB ─────────────────────────────────────────────
+streamlit==1.41.1
+
+# ── UTILITARIOS ──────────────────────────────────────────────
+python-dotenv==1.0.1
