@@ -18,7 +18,7 @@ Este repositorio contiene el diseño e implementación de un sistema de pregunta
 ## 📋 Descripción del Proyecto
 El sistema aborda la necesidad de un canal de comunicación automatizado que mitigue las limitaciones de escalabilidad de los canales tradicionales. El núcleo de la solución es un motor RAG que combina técnicas de recuperación de información con modelos de lenguaje de gran escala (LLM), evitando alucinaciones mediante el uso de un corpus documental restringido y reglas estrictas de *Prompt Engineering*.
 
-## ⚙️ Arquitectura y Metodología (RAG Pipeline)
+## ⚙️ Arquitectura y Metodología
 El flujo de trabajo se divide en cuatro etapas técnicas fundamentales:
 
 1.  **Adquisición de Datos (Extraction Pipeline):**
