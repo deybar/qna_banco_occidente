@@ -35,6 +35,8 @@ El flujo de trabajo se divide en cuatro etapas técnicas fundamentales, centrada
 4.  **Consulta e Interfaz (Front-end):**
     * Desarrollo de una aplicación web interactiva en **Streamlit** que gestiona la comunicación entre el usuario y el motor de IA en tiempo real.
 
+![Texto alternativo de la imagen](https://drive.google.com/uc?export=view&id=1w3I-21Mzl4JSo8Ngk4fxbip_Z6vrsAFC)
+
 ## 💻 Instalación y Ejecución
 
 ### Requisitos Previos
