@@ -46,8 +46,7 @@ El flujo de trabajo se divide en cuatro etapas técnicas fundamentales, centrada
 ### Configuración del Entorno
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/deybar/qna_banco_occidente.git](https://github.com/deybar/qna_banco_occidente.git)
-   cd qna_banco_occidente
+   git clone https://github.com/deybar/qna_banco_occidente.git
 
 2. Instalar las dependencias requeridas:
    ```bash
