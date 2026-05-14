@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "window_k": 6,
+  "messages": [
+    {
+      "type": "human",
+      "content": "¿Qué es el crédito hipotecario del Banco de Occidente?"
+    },
+    {
+      "type": "ai",
+      "content": "El Crédito Hipotecario del Banco de Occidente es un producto que ofrecemos para ayudarte a financiar la compra de tu casa propia, ya sea nueva o usada."
+    },
+    {
+      "type": "human",
+      "content": "¿Y cuáles son los requisitos para solicitarlo?"
+    },
+    {
+      "type": "ai",
+      "content": "Para solicitar el crédito hipotecario con nosotros, los requisitos incluyen la presentación del Pagaré Crédito Hipotecario en Pesos y el Pagaré Crédito Hipotecario en UVR. Este crédito está disponible para personas mayores de 18 años, tanto si son asalariados como independientes."
+    }
+  ]
+}
