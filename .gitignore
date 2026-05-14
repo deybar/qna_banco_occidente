@@ -28,6 +28,7 @@ dist/
 pip-log.txt
 pip-delete-this-directory.txt
 .pip-cache/
+pip-wheel-metadata/
 
 # ─── TESTING Y JUPYTER ───
 .pytest_cache/
@@ -45,10 +46,16 @@ geckodriver*
 msedgedriver*
 
 # ─── ESTRATEGIA DE DATOS (Intermedios) ───
-data/raw_docs/
-data/clean_docs/
-data/markdown_docs/
-data/chunks.json
+# Estos directorios se generan durante el pipeline y no deben versionarse.
+data/01_urls/
+data/02_scraping/
+data/03_pdfs/
+data/04_clean/
+data/05_markdown/
+data/06_corpus/
+data/07_estructurado/
+data/08_chroma/
+data/memoria/
 
 # ─── LOGS, TEMPORALES Y EDITORES ───
 *.log
