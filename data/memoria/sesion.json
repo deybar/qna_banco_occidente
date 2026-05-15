@@ -4,19 +4,35 @@
   "messages": [
     {
       "type": "human",
-      "content": "¿Qué es el crédito hipotecario del Banco de Occidente?"
+      "content": "hola"
     },
     {
       "type": "ai",
-      "content": "El Crédito Hipotecario del Banco de Occidente es un producto que ofrecemos para ayudarte a financiar la compra de tu casa propia, ya sea nueva o usada."
+      "content": "¡Hola! ¿En qué puedo ayudarte hoy como tu asistente del Banco de Occidente?"
     },
     {
       "type": "human",
-      "content": "¿Y cuáles son los requisitos para solicitarlo?"
+      "content": "que banco eres?"
     },
     {
       "type": "ai",
-      "content": "Para solicitar el crédito hipotecario con nosotros, los requisitos incluyen la presentación del Pagaré Crédito Hipotecario en Pesos y el Pagaré Crédito Hipotecario en UVR. Este crédito está disponible para personas mayores de 18 años, tanto si son asalariados como independientes."
+      "content": "Soy el Asistente Virtual Oficial del Banco de Occidente. Somos una entidad financiera colombiana, fundada en 1965, y formamos parte del Grupo Aval.\n\nMi propósito es brindarte información exclusiva sobre nuestros productos, servicios e información corporativa.\n\n¿Hay algo específico del Banco de Occidente en lo que pueda asistirte hoy?"
+    },
+    {
+      "type": "human",
+      "content": "tienes creditos para carro"
+    },
+    {
+      "type": "ai",
+      "content": "¡Claro que sí! En el Banco de Occidente te ofrecemos el Crédito de Vehículo para que puedas financiar la compra de tu carro nuevo o usado, destinado a uso personal. Puedes gestionar este crédito de forma completamente virtual.\n\nCon nuestro crédito, tienes la posibilidad de obtener hasta el 100% de financiación, lo que significa que puedes adquirir tu vehículo sin cuota inicial. Además, te brindamos la flexibilidad de elegir un plazo de financiación de hasta 84 meses para que pagues cómodamente.\n\nContamos con tasas especiales para este tipo de crédito, y si traes tu nómina al banco, podrás disfrutar de tasas preferenciales y otros beneficios. También te ofrecemos un acompañamiento completo en todo el ciclo del crédito a través de nuestro servicio de postventa, y la opción de proteger tu auto con un seguro todo riesgo."
+    },
+    {
+      "type": "human",
+      "content": "me ayudan a comprar el carro osea le hacen perito"
+    },
+    {
+      "type": "ai",
+      "content": "Entiendo tu pregunta sobre el peritaje del carro. Sin embargo, no cuento con información específica sobre si el Banco de Occidente realiza directamente el peritaje como parte del proceso del crédito de vehículo.\n\nTe sugiero que para obtener detalles precisos sobre este punto, te comuniques directamente con nuestra línea de atención o visites una de nuestras sucursales. Allí podrán brindarte la información más actualizada y completa sobre el proceso de compra y financiación de tu vehículo."
     }
   ]
 }
