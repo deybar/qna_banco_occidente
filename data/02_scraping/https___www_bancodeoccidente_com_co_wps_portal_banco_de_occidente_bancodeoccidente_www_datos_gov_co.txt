@@ -53,11 +53,11 @@ Vivienda
 ¡Te acompañamos a cumplir tu sueño!, en minutos y sin papeleos.
 Solicítalo aquí
 TRM
-3,729.27
+3,794.91
 WTI
-94.68
+102.02
 IBR ON
-10.522
+10.527
 DTF EA
 8.95
 INVERTIR
@@ -126,11 +126,11 @@ Vivienda
 ¡Te acompañamos a cumplir tu sueño!, en minutos y sin papeleos.
 Solicítalo aquí
 TRM
-3,729.27
+3,794.91
 WTI
-94.68
+102.02
 IBR ON
-10.522
+10.527
 DTF EA
 8.95
 INVERTIR
@@ -199,11 +199,11 @@ Vivienda
 ¡Te acompañamos a cumplir tu sueño!, en minutos y sin papeleos.
 Solicítalo aquí
 TRM
-3,729.27
+3,794.91
 WTI
-94.68
+102.02
 IBR ON
-10.522
+10.527
 DTF EA
 8.95
 INVERTIR

@@ -97,13 +97,13 @@ Cupo línea Préstamo Personal
 TIPO DE TASA  
 LIBRE INVERSIÓN  COMPRA DE CARTERA  
 Desde Hasta Desde Hasta 
-Tasa M.V  1,56% 1,99% 1,35% 1,99% 
-Tasa E.A  20,41% 26,68% 17,46% 26,68% 
+Tasa M.V  1,56% 2,08% 1,35% 2,08% 
+Tasa E.A  20,41% 28,02% 17,46% 28,02% 
   
  
 * Las tasas pueden variar dependiendo del monto, el plazo y el perfil crediticio del cliente. 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 Cupo línea Crédito Rotativo 
  
@@ -111,12 +111,12 @@ TIPO DE TASA
   
 LIBRE INVERSIÓN  COMPRA DE CARTERA  
 Desde Hasta Desde Hasta 
-Tasa M.V  1,56% 1,93% 1,35% 1,93% 
-Tasa E.A  20,41% 25,78% 17,46% 25,78% 
+Tasa M.V  1,56% 2,02% 1,35% 2,02% 
+Tasa E.A  20,41% 27,12% 17,46% 27,12% 
  
 * Las tasas pueden variar dependiendo del monto, el plazo y el perfil crediticio del cliente. 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 ------------------------------------------------------------------------------------------------ 
  
@@ -126,9 +126,9 @@ Cuenta Corriente
  
 SOBREGIRO  
 Períodos  Tasa Efectiva  Tasa Nominal Vencida  
-Tasa Diaria 26,61% 23,60% 
+Tasa Diaria 28,02% 24,71% 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
 ------------------------------------------------------------------------------------------------------------
 
 ## Página 4
@@ -143,7 +143,7 @@ no sirva.
 * 2. Para obtener remuneración sobre la totalidad del saldo diario en cuenta que exceda el tope de $3.000 MM, se debe solicitar  
 al Gerente Comercial el trámite de una condición especial. 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
 ------------------------------------------------------------------------------------------------------------ 
  
  
@@ -157,7 +157,7 @@ automáticos de la red aval.
 obtener remuneración sobre la totalidad del saldo diario en cuenta que exceda el tope de $3.000 MM, se debe solicitar al Gerente 
 Comercial el trámite de una condición especial. 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
 ------------------------------------------------------------------------------------------------------------ 
  
  
@@ -189,7 +189,7 @@ Paquete de Servicios Básicos
 obtener remuneración sobre la totalidad del saldo diario en cuenta que exceda el tope de $3.000 MM, se debe solicitar al Gerente 
 Comercial el trámite de una condición especial. 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CDT 
  
@@ -201,14 +201,14 @@ $1 - 99 Millones  $100 - 499
 Millones  $500 - 10.000 Millones  
 30 Días (30 Hasta 50 Días) 0,05% 0,05% 0,05% 
 60 Días (51 Hasta 80 Días) 0,05% 0,05% 0,05% 
-90 Días (81 Hasta 150 Días) 11,05% 11,15% 11,25% 
-90 Días exactos base 360 o real  11,05% 11,15% 11,25% 
-180 Días (151 Hasta 240 Días) 11,20% 11,30% 11,40% 
-270 Días (241 Hasta 330 Días) 11,70% 11,80% 11,90% 
-360 Días (331 Hasta 539 Días) 12,10% 12,20% 12,30% 
-540 Días (540 Hasta 719 Días) 12,45% 12,45% 12,55% 
-720 Días (720 Hasta 1079 Días) 12,45% 12,45% 12,55% 
-1080 Días ( Mayor o Igual a 1080 Días) 12,45% 12,45% 12,55% 
+90 Días (81 Hasta 150 Días) 10,90% 11,00% 11,10% 
+90 Días exactos base 360 o real  10,90% 11,00% 11,10% 
+180 Días (151 Hasta 240 Días) 11,00% 11,10% 11,20% 
+270 Días (241 Hasta 330 Días) 11,50% 11,60% 11,70% 
+360 Días (331 Hasta 539 Días) 11,85% 11,95% 12,05% 
+540 Días (540 Hasta 719 Días) 12,20% 12,20% 12,30% 
+720 Días (720 Hasta 1079 Días) 12,20% 12,20% 12,30% 
+1080 Días ( Mayor o Igual a 1080 Días) 12,20% 12,20% 12,30% 
  
  
 Tasas de Captación de CDT LARGO PLAZO  
@@ -221,7 +221,7 @@ Plazo IPC %EA  IBR %MV
 2 Años 3,80% 0,20% 
 3 Años  3,90% 0,00% 
  
-* Vigencia del 21 al 27 de Abril de 2026 
+* Vigencia del 12 al 19 de Mayo de 2026 
  
 SALDO DIARIO  TASA E.A  
 De $0 a $5’000.000 0,01 % 
@@ -238,13 +238,13 @@ Tarjeta de Crédito Credencial
 Visa clásica 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
@@ -263,12 +263,12 @@ Visa Gold
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia.  
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
  
  
@@ -285,12 +285,12 @@ el siguiente extracto, sin importar que se registre el pago total del saldo. Se 
 Visa Platinum 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
@@ -310,12 +310,12 @@ el siguiente extracto, sin importar que se registre el pago total del saldo. Se 
 Visa - Infinite 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
  
  
@@ -332,12 +332,12 @@ el siguiente extracto, sin importar que se registre el pago total del saldo. Se 
 Visa Cuota Fija 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
@@ -356,13 +356,13 @@ Tarjeta de Crédito Credencial
 Clásica Mastercard 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  
 PESOS DOLARES  
 e.a. n.v. e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 22,21% 20,23% 
-Mora 26,61% 23,60% 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 23,58% 21,36% 
+Mora 28,02% 24,71% 28,02% 24,71% 
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
 mes vencido y la liquidación de éstos se genera a partir de la fecha de la transacción. El primer cobro se ve reflejado en el  
@@ -385,13 +385,13 @@ diferencia. El concepto con el cual se registra en su extracto es “Ajuste tasa
 Gold Mastercard 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  
 PESOS DOLARES  
 e.a. n.v e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 22,21% 20,23% 
-Mora 26,61% 23,60% 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 23,58% 21,36% 
+Mora 28,02% 24,71% 28,02% 24,71% 
  
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
@@ -410,13 +410,13 @@ diferencia. El concepto con el cual se registra en su extracto es “Ajuste tasa
 Platinum Mastercard 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  
 PESOS DOLARES  
 e.a. n.v. e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 22,21% 20,23% 
-Mora 26,61% 23,60% 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 23,58% 21,36% 
+Mora 28,02% 24,71% 28,02% 24,71% 
  
  
 * Tasa de interés corriente para compras: En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
@@ -439,13 +439,13 @@ diferencia. El concepto con el cual se registra en su extracto es “Ajuste tasa
 Black Mastercard 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  
 PESOS DOLARES  
 e.a. n.v e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 22,21% 20,23% 
-Mora 26,61% 23,60% 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 23,58% 21,36% 
+Mora 28,02% 24,71% 28,02% 24,71% 
  
  
  
@@ -466,13 +466,13 @@ diferencia. El concepto con el cual se registra en su extracto es “Ajuste tasa
 Mastercard Gold – UNICEF 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  
 PESOS DOLARES  
 e.a. n.v. e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 22,21% 20,23% 
-Mora 26,61% 23,60% 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 23,58% 21,36% 
+Mora 28,02% 24,71% 28,02% 24,71% 
  
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
@@ -495,12 +495,12 @@ Tarjeta de Crédito Credencial
 Clásica - Visa LATAM 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
  
 * Tasa de interés corriente para compras: En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
@@ -519,13 +519,13 @@ Gold - Visa LATAM
  
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
@@ -542,12 +542,12 @@ Platinum - Visa LATAM
  
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
  
  
@@ -567,12 +567,12 @@ el siguiente extracto, sin importar que se registre el pago total del saldo. Se 
 Signature - Visa LATAM 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
  
  
@@ -589,12 +589,12 @@ Vélez
 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia.  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
 mes vencido y la liquidación de éstos se genera a partir de la fecha de la transacción. El primer cobro se ve reflejado en el  
@@ -608,12 +608,12 @@ el siguiente extracto, sin importar que se registre el pago total del saldo. Se 
 Gold – BODYTECH 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
 mes vencido y la liquidación de éstos se genera a partir de la fecha de la transacción. El primer cobro se ve reflejado en el  
@@ -628,15 +628,15 @@ el siguiente extracto, sin importar que se registre el pago total del saldo. Se 
 Signature – BODYTECH 
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 CONCEPTO  PESOS 
  e.a. n.v.
 
 ## Página 14
 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
  
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
 mes vencido y la liquidación de éstos se genera a partir de la fecha de la transacción. El primer cobro se ve reflejado en el  
@@ -654,12 +654,12 @@ Préstamo Personal
   
 LIBRE INVERSIÓN  COMPRA DE CARTERA  
 Desde Hasta Desde Hasta 
-Tasa M.V  1,56% 1,99% 1,35% 1,99% 
-Tasa E.A  20,41% 26,68% 17,46% 26,68% 
+Tasa M.V  1,56% 2,08% 1,35% 2,08% 
+Tasa E.A  20,41% 28,02% 17,46% 28,02% 
  
 * Las tasas pueden variar dependiendo del monto, el plazo y el perfil crediticio del cliente. 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 ------------------------------------------------------------------------------------------------------------ 
  
@@ -669,11 +669,11 @@ Crédito Rotativo
   
 LIBRE INVERSIÓN  COMPRA DE CARTERA  
 Desde Hasta Desde Hasta 
-Tasa M.V  1,56% 1,93% 1,35% 1,93% 
-Tasa E.A  20,41% 25,78% 17,46% 25,78% 
+Tasa M.V  1,56% 2,02% 1,35% 2,02% 
+Tasa E.A  20,41% 27,12% 17,46% 27,12% 
 * Las tasas pueden variar dependiendo del monto, el plazo y el perfil crediticio del cliente. 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
  
  
@@ -694,7 +694,7 @@ Tasa M.V  1,22% 1,89% 1,17% 1,83% 1,14% 1,80%
 Tasa E.A  15,66% 25,19% 14,98% 24,31% 14,57% 23,87% 
  
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
       
 * Las tasas pueden variar de acuerdo con el monto, plazo y perfil del cliente 
 *Estas tasas varían dependiendo del segmento y convenio al cual pertenezca el cliente 
@@ -721,7 +721,7 @@ Todos los plazos IBR + 6,51 % T.V
 *Tasa Variable.  
 **La tasa de interés, se convertirá en su equivalente M.V en tasa fija, durante la vigencia del Crédito. 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 ------------------------------------------------------------------------------------------------------------
 
@@ -735,7 +735,7 @@ DESDE HASTA DESDE HASTA
 14,67% 17,69% 14,30% 17,69% 
  
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
  
 Rango Clear: Es una puntuación numérica basada en la información de las Centrales de Riesgo, que refleja el 
@@ -748,7 +748,7 @@ Cuentas AFC.
 Rendimiento sobre saldo  Tasa EA  
 Para todo monto 1,00% 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 --------------------------------------------------------------------------- -----------------------------  
 Occiauto  
@@ -756,21 +756,21 @@ Persona Natural
 Vehículos Livianos  
  
 MODELO TIPO DE TASA  Desde 
-Nuevo* TASA m.v. 1,45% 
+Nuevo* TASA m.v. 1,41% 
+TASA E.A. 18,33% 
+Usado* TASA m.v. 1,45% 
 TASA E.A. 18,92% 
-Usado* TASA m.v. 1,49% 
-TASA E.A. 19,49% 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 Persona Natural 
 Transportador - Autos 
  
 MODELO TIPO DE TASA  Desde 
-Nuevo* M.V. 1,85% 
-Usado* 1,89% 
+Nuevo* M.V. 1,81% 
+Usado* 1,85% 
  
-* Vigencia del 01 al 30 de Abril de 2026
+* Vigencia del 01 al 31 de Mayo de 2026
 
 ## Página 17
 
@@ -778,20 +778,20 @@ Persona Jurídica
 Autos - Motos 
  
 MODELO TIPO DE TASA  Desde 
-Nuevo* M.V. 1,55% 
-Usado* 1,59%  
+Nuevo* M.V. 1,51% 
+Usado* 1,55%  
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 Motos Alto Cilindraje 
  
 MODELO TIPO DE TASA  Desde 
-Nuevo* TASA m.v. 1,45% 
+Nuevo* TASA m.v. 1,41% 
+TASA E.A. 18,36% 
+Usado* TASA m.v. 1,45% 
 TASA E.A. 18,92% 
-Usado* TASA m.v. 1,49% 
-TASA E.A. 19,49% 
  
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
  
 La asignación de la tasa depende del análisis interno que realice el Banco de Occidente, esta información es 
 meramente informativa y no constituye ningún compromiso formal ni legal. 

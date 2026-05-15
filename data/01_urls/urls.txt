@@ -4,7 +4,6 @@ https://portalpublico.bancodeoccidente.com.co/documents/d/empresas/oferta-mercan
 https://portalpublico.bancodeoccidente.com.co/documents/d/empresas/oferta-mercantil-leasing-financiero-maquinaria-y-equipo-ibr
 https://portalpublico.bancodeoccidente.com.co/documents/d/empresas/oferta-mercantil-leasing-financiero-tecnologia
 https://portalpublico.bancodeoccidente.com.co/documents/d/empresas/oferta-mercantil-leasing-financiero-vehiculos-importaciones
-https://portalpublico.bancodeoccidente.com.co/documents/d/empresas/oferta-mercantil-leasing-operativo-general-
 https://portalpublico.bancodeoccidente.com.co/documents/d/empresas/ofeta-mercantil-leasing-financiero-inmobiliario-ibr
 https://portalpublico.bancodeoccidente.com.co/documents/d/guest/202512_politica_tratamientodedatos_vf
 https://portalpublico.bancodeoccidente.com.co/documents/d/guest/abac-policy
@@ -83,6 +82,7 @@ https://www.bancodeoccidente.com.co/BuscadordePuntosOccidente
 https://www.bancodeoccidente.com.co/BuscadordePuntosOccidente/?entidad=occidente
 https://www.bancodeoccidente.com.co/Inversión: https:/www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=TercerNivel&utm_campaign=Interesar
 https://www.bancodeoccidente.com.co/apple-pay
+https://www.bancodeoccidente.com.co/apple-pay-tarjeta-debito
 https://www.bancodeoccidente.com.co/asistencias-assisprex
 https://www.bancodeoccidente.com.co/ayuda
 https://www.bancodeoccidente.com.co/ayuda/agendar-cita-asesor
@@ -256,11 +256,13 @@ https://www.bancodeoccidente.com.co/documents/d/guest/t-y-c-billetera-apple-pay
 https://www.bancodeoccidente.com.co/documents/d/guest/tarifas-persona-1
 https://www.bancodeoccidente.com.co/documents/d/guest/tasas-personas-2025-9
 https://www.bancodeoccidente.com.co/documents/d/guest/token-mobile
-https://www.bancodeoccidente.com.co/documents/d/guest/tyc-comware
-https://www.bancodeoccidente.com.co/documents/d/guest/tyc-copower
+https://www.bancodeoccidente.com.co/documents/d/guest/tyc-arturo-calle-mes-de-mayo
 https://www.bancodeoccidente.com.co/documents/d/guest/tyc-despegar-tasa-0-
-https://www.bancodeoccidente.com.co/documents/d/guest/tyc-despegar-tasa-0-marzo
 https://www.bancodeoccidente.com.co/documents/d/guest/tyc-mercadolibre-tasa-0-
+https://www.bancodeoccidente.com.co/documents/d/guest/tyc-occiweek-cashback-mayo
+https://www.bancodeoccidente.com.co/documents/d/guest/tyc-occiweek-tasa-julio
+https://www.bancodeoccidente.com.co/documents/d/guest/tyc-ollas-y-sartenes
+https://www.bancodeoccidente.com.co/documents/d/guest/tyc-tasa-0-exito-a-junio
 https://www.bancodeoccidente.com.co/documents/d/guest/tyc_mac-center-2026
 https://www.bancodeoccidente.com.co/educacion-financiera
 https://www.bancodeoccidente.com.co/en/asamblea-de-accionistas-2026
@@ -269,8 +271,8 @@ https://www.bancodeoccidente.com.co/en/creditos/rotativo
 https://www.bancodeoccidente.com.co/en/tarifas
 https://www.bancodeoccidente.com.co/en/tarjetas-de-credito-visa-ag?utm_source=Home&utm_medium=Megabanner1&utm_campaign=VisaMundialAG&utm_content=29_04_26
 https://www.bancodeoccidente.com.co/en/web/empresas/occieconomicas
-https://www.bancodeoccidente.com.co/en/web/empresas/pagos/impuestos-territoriales
 https://www.bancodeoccidente.com.co/foros
+https://www.bancodeoccidente.com.co/google-pay-tarjeta-debito
 https://www.bancodeoccidente.com.co/google-wallet
 https://www.bancodeoccidente.com.co/haz-tus-pagos
 https://www.bancodeoccidente.com.co/hitos-informe-gestión
@@ -310,7 +312,6 @@ https://www.bancodeoccidente.com.co/occiauto/autogestionado/vehiculo?utm_source=
 https://www.bancodeoccidente.com.co/occiauto/autogestionado/vehiculo?utm_source=web&utm_medium=InternaVehi&utm_campaign=BannerPpal
 https://www.bancodeoccidente.com.co/occiauto/autogestionado/vehiculo?utm_source=web&utm_medium=InternaVehi&utm_campaign=Solicitar
 https://www.bancodeoccidente.com.co/occiauto/autogestionado/vehiculo?utm_source=web&utm_medium=MegabannerHome&utm_campaign=OcciautoSinTasaM&utm_content=14_04_26
-https://www.bancodeoccidente.com.co/occiauto/autogestionado?
 https://www.bancodeoccidente.com.co/occiauto/autogestionado?utm_source=web&utm_medium=TercerNivel&utm_campaign=Interesar
 https://www.bancodeoccidente.com.co/paquete-m%C3%ADnimo-de-servicios
 https://www.bancodeoccidente.com.co/pensionados-protegidos
@@ -451,10 +452,10 @@ https://www.bancodeoccidente.com.co/web/empresas/moneda-extranjera/exportadores
 https://www.bancodeoccidente.com.co/web/empresas/moneda-extranjera/importadores
 https://www.bancodeoccidente.com.co/web/empresas/moneda-extranjera/otros-servicios
 https://www.bancodeoccidente.com.co/web/empresas/occieconomicas
+https://www.bancodeoccidente.com.co/web/empresas/paga-tus-impuestos
 https://www.bancodeoccidente.com.co/web/empresas/pagos
 https://www.bancodeoccidente.com.co/web/empresas/pagos/cheques-formas-continuas
 https://www.bancodeoccidente.com.co/web/empresas/pagos/facilpass
-https://www.bancodeoccidente.com.co/web/empresas/pagos/impuestos-nacionales
 https://www.bancodeoccidente.com.co/web/empresas/pagos/impuestos-territoriales
 https://www.bancodeoccidente.com.co/web/empresas/pagos/pila
 https://www.bancodeoccidente.com.co/web/empresas/pagos/qr
@@ -493,7 +494,6 @@ https://www.bancodeoccidente.com.co/web/empresas/vida-grupo-deudor
 https://www.bancodeoccidente.com.co/web/guest/educacion-financiera
 https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/buscador-de-oficinas
 https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/footer/otros/linea-etica
-https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/para-empresas/financiacion/leasing-aliado
 https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/para-personas/cuentas/cuenta-de-ahorros
 https://www.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/www.datos.gov.co
 https://www.bancodeoccidente.com.co/www.bancodeoccidente.com.co/cuentas

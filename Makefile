@@ -52,8 +52,8 @@ help:
 setup:
 	@echo [1/3] Creando entorno virtual con UV...
 	uv venv
-	@echo [2/3] Instalando dependencias...
-	uv pip install -r requirements.txt
+	@echo [2/3] Instalando dependencias desde pyproject.toml...
+	uv sync
 	@echo [3/3] Listo. Activa el entorno con: .venv\Scripts\activate
 	@echo.
 	@echo Verifica la instalacion con: make status

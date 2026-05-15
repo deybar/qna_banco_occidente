@@ -1,6 +1,10 @@
 <!-- fuente: https://www.bancodeoccidente.com.co -->
 URL: https://www.bancodeoccidente.com.co
 # Banco de Occidente - Productos y servicios bancarios en línea
+## Estamos trabajando para ti
+Informamos a nuestros clientes que el domingo 17 de mayo, entre las 00:00 am y las 5:00 am, estaremos realizando mantenimiento a nuestros canales electrónicos; durante este tiempo nuestros canales no estarán disponibles, por lo que no se podrán realizar transacciones con cuentas de ahorros y corrientes. Te recomendamos realizarlas antes de este horario.
+A su vez, el lunes 18 de mayo, entre las 00:00 am y las 5:00 am, estaremos realizando mantenimiento a nuestros canales electrónicos; durante este tiempo nuestros canales no estarán disponibles, por lo que no se podrán realizar transacciones con cuentas de ahorros y corrientes. Te recomendamos realizarlas antes de este horario.
+Sus transacciones de compras con tarjeta de crédito no se verán afectadas.
 ¡Tienes que tenerla!
 Solicita y utiliza tu tarjeta VISA.
 Usa tu tarjeta Credencial Visa y podrás ganar premios exclusivos para que vivas este evento al máximo.

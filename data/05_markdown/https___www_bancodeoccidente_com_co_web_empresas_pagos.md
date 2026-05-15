@@ -4,7 +4,6 @@ URL: https://www.bancodeoccidente.com.co/web/empresas/pagos
 Transfiere dinero a cuentas de cualquier banco de forma segura.
 ### Impuestos Nacionales
 Paga tributos nacionales con facilidad y seguridad en línea.
-### Impuestos Territoriales
 Realiza el pago de impuestos departamentales y municipales.
 ### Seguridad Social - PILA
 Gestiona los aportes de tu empresa a la seguridad social.

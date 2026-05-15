@@ -35,17 +35,17 @@ Financiación en Vivienda
 Cupo línea Préstamo Personal 
 LIBRE INVERSIÓN  COMPRA DE CARTERA  
 Desde Hasta Desde Hasta 
-Tasa M.V  1,56% 1,99% 1,35% 1,99% 
-Tasa E.A  20,41% 26,68% 17,46% 26,68% 
+Tasa M.V  1,56% 2,08% 1,35% 2,08% 
+Tasa E.A  20,41% 28,02% 17,46% 28,02% 
 * Las tasas pueden variar dependiendo del monto, el plazo y el perfil crediticio del cliente. 
-* Vigencia del 01 al 30 de Abril de 2026 
+* Vigencia del 01 al 31 de Mayo de 2026 
 Cupo línea Crédito Rotativo 
-Tasa M.V  1,56% 1,93% 1,35% 1,93% 
-Tasa E.A  20,41% 25,78% 17,46% 25,78% 
+Tasa M.V  1,56% 2,02% 1,35% 2,02% 
+Tasa E.A  20,41% 27,12% 17,46% 27,12% 
 Ahorro e Inversión:  
 Cuenta Corriente 
 Períodos  Tasa Efectiva  Tasa Nominal Vencida  
-Tasa Diaria 26,61% 23,60% 
+Tasa Diaria 28,02% 24,71% 
 ## Página 4
 Cuenta de Ahorros Occidia 
 * 1. Las tasas de ahorro para montos superiores a $1.000 MM, deben de consultarse en Tesorería, en caso que la tabla de arriba 
@@ -76,14 +76,14 @@ $1 - 99 Millones  $100 - 499
 Millones  $500 - 10.000 Millones  
 30 Días (30 Hasta 50 Días) 0,05% 0,05% 0,05% 
 60 Días (51 Hasta 80 Días) 0,05% 0,05% 0,05% 
-90 Días (81 Hasta 150 Días) 11,05% 11,15% 11,25% 
-90 Días exactos base 360 o real  11,05% 11,15% 11,25% 
-180 Días (151 Hasta 240 Días) 11,20% 11,30% 11,40% 
-270 Días (241 Hasta 330 Días) 11,70% 11,80% 11,90% 
-360 Días (331 Hasta 539 Días) 12,10% 12,20% 12,30% 
-540 Días (540 Hasta 719 Días) 12,45% 12,45% 12,55% 
-720 Días (720 Hasta 1079 Días) 12,45% 12,45% 12,55% 
-1080 Días ( Mayor o Igual a 1080 Días) 12,45% 12,45% 12,55% 
+90 Días (81 Hasta 150 Días) 10,90% 11,00% 11,10% 
+90 Días exactos base 360 o real  10,90% 11,00% 11,10% 
+180 Días (151 Hasta 240 Días) 11,00% 11,10% 11,20% 
+270 Días (241 Hasta 330 Días) 11,50% 11,60% 11,70% 
+360 Días (331 Hasta 539 Días) 11,85% 11,95% 12,05% 
+540 Días (540 Hasta 719 Días) 12,20% 12,20% 12,30% 
+720 Días (720 Hasta 1079 Días) 12,20% 12,20% 12,30% 
+1080 Días ( Mayor o Igual a 1080 Días) 12,20% 12,20% 12,30% 
 Tasas de Captación de CDT LARGO PLAZO  
 Plazo IPC %EA  IBR %MV  
 90 Días   
@@ -92,12 +92,12 @@ Plazo IPC %EA  IBR %MV
 18 Meses 3,60% 0,35% 
 2 Años 3,80% 0,20% 
 3 Años  3,90% 0,00% 
-* Vigencia del 21 al 27 de Abril de 2026 
+* Vigencia del 12 al 19 de Mayo de 2026 
 ## Página 6
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia  
 Financiera de Colombia. 
-Tasa compra y avances 26,61% 23,60% 
-Mora 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 
+Mora 28,02% 24,71% 
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan 
 mes vencido y la liquidación de éstos se genera a partir de la fecha de la transacción. El primer cobro se ve reflejado en el  
 segundo extracto después de haber realizado la transacción de Compra. Se aplica la tasa vigente de la fecha de la transacción. 
@@ -109,8 +109,8 @@ el siguiente extracto, sin importar que se registre el pago total del saldo. Se 
 Visa Cuota Fija 
 Clásica Mastercard 
 Financiera de Colombia 
-Tasa compra y avances 26,61% 23,60% 22,21% 20,23% 
-Mora 26,61% 23,60% 26,61% 23,60% 
+Tasa compra y avances 28,02% 24,71% 23,58% 21,36% 
+Mora 28,02% 24,71% 28,02% 24,71% 
 Para Avances en Efectivo y Pago de Impuestos (Oficina Banco):  En las transacciones de avances en efectivo e Impuestos 
 Aplicación de Tasa Representativa del Mercado a su PAGO EN PESOS de consumos en dólares.   
 Tenga en cuenta que el valor registrado en su extracto para PAGO EN PESOS de consumos en dólares con su Tarjeta Credencial 
@@ -167,17 +167,18 @@ Rendimiento sobre saldo  Tasa EA
 Para todo monto 1,00% 
 Vehículos Livianos  
 MODELO TIPO DE TASA  Desde 
-Nuevo* TASA m.v. 1,45% 
+Nuevo* TASA m.v. 1,41% 
+TASA E.A. 18,33% 
+Usado* TASA m.v. 1,45% 
 TASA E.A. 18,92% 
-Usado* TASA m.v. 1,49% 
-TASA E.A. 19,49% 
 Transportador - Autos 
-Nuevo* M.V. 1,85% 
-Usado* 1,89% 
+Nuevo* M.V. 1,81% 
+Usado* 1,85% 
 ## Página 17
-Nuevo* M.V. 1,55% 
-Usado* 1,59%  
+Nuevo* M.V. 1,51% 
+Usado* 1,55%  
 Motos Alto Cilindraje 
+TASA E.A. 18,36% 
 La asignación de la tasa depende del análisis interno que realice el Banco de Occidente, esta información es 
 meramente informativa y no constituye ningún compromiso formal ni legal. 
 Notas: 1- Todas las Tasas son variables y atadas a la IBR nominal a tres meses, más los puntos correspondientes 

@@ -27,6 +27,7 @@ Solicitud de producto
 Causales de negación o modificación de créditos preabrobados
 ### Solicítala hoy y disfruta beneficios exclusivos.
 Aquí va la descripción del mensaje. Proporcione detalles relevantes y útiles para guiar al usuario sobre el contenido de esta sección.
+Los datos personales que nos compartas, nos permitirán asesorarte mejor.
 #### Adquiérelo con un asesor
 Gestiona tu cuenta de manera rápida y sencilla desde la comodidad de tu hogar.
 ### Productos relacionados

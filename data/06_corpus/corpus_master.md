@@ -1,5 +1,5 @@
 # Corpus Maestro — Banco de Occidente
-Generado: 2026-05-09 00:32
+Generado: 2026-05-14 23:36
 URL base: https://www.bancodeoccidente.com.co/
 
 
@@ -21396,19 +21396,18 @@ Cómo descargar extractos, referencias y certificados bancarios desde la Banca e
 
 
 ============================================================
-# CATEGORÍA: TARJETAS  (65 documentos)
+# CATEGORÍA: TARJETAS  (67 documentos)
 ============================================================
 
 <!-- fuente: https://portalpublico.bancodeoccidente.com.co/tarjetas-credito/promociones -->
 URL: https://portalpublico.bancodeoccidente.com.co/tarjetas-credito/promociones
 # Promociones con Tarjetas de Crédito Banco de Occidente
 # Encuentra las mejores alianzas y promociones con Tarjeta Crédito o Débito
-## Para disfrutar en viajes y paquetes turísticos
-## Busca la sección marcada “Sin intereses”
 ### 20% de descuento todos los jueves*
 ### 0% en tasa de interés
 ### Envío gratis en alimentos
 ### Viernes de mercado: desde 20% OFF
+### Hasta 66% de descuento*
 ## ¿Qué es Tuplús y cómo se usa?
 Vive Tuplús es un programa de lealtad en el cual puedes acumular puntos por tus compras
 ## Solicita tu Tarjeta de Crédito hoy y disfruta beneficios exclusivos.
@@ -21456,6 +21455,17 @@ Podrás pagar en los comercios físicos, Online y aplicaciones móviles que sopo
 ## ¿Puedo usar mi tarjeta empresarial en la billetera de Apple?
 Obtén tu crédito y haz realidad tus planes con plazos flexibles y t
 Protege tu dinero, hazlo crecer y úsalo cuando lo necesites. ¡Empieza hoy!
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/apple-pay-tarjeta-debito -->
+URL: https://www.bancodeoccidente.com.co/apple-pay-tarjeta-debito
+# Apple Pay Tarjeta Débito
+### ¿Cómo agregar mi tarjeta Débito Banco de Occidente a Apple Pay?
+Elige la cuenta asociada a tu Tarjeta Débito.
+Selecciona la Tarjeta Débito que deseas añadir a Apple Pay.
+## Da clic en agregar en Apple Wallet
+Agrega todas tus tarjetas débito Mastercard sin costo, para disfrutar de esta experiencia de pago.
 
 ────────────────────────────────────────
 
@@ -21777,12 +21787,12 @@ Podrás con tu Tarjeta de Crédito disponer de dinero en efectivo y transferirlo
 
 ────────────────────────────────────────
 
-<!-- fuente: https://www.bancodeoccidente.com.co/google-wallet -->
-URL: https://www.bancodeoccidente.com.co/google-wallet
-# Google Wallet
+<!-- fuente: https://www.bancodeoccidente.com.co/google-pay-tarjeta-debito -->
+URL: https://www.bancodeoccidente.com.co/google-pay-tarjeta-debito
+# Google Pay Tarjeta Débito
 ### ¿Cómo agregar mis tarjetas Credencial Banco de Occidente a Google Pay?
 Descarga la App de Google Wallet en tu dispositivo.
-Ingresa a la App Google Pay y añade tus tarjetas de crédito Mastercard y Visa Banco de Occidente en la opción “Tarjeta de pago”.
+Ingresa a la App Google Pay y añade tus tarjetas Débito Mastercard Banco de Occidente en la opción “Tarjeta de pago”.
 Sigue las instrucciones y acepta los términos y condiciones.
 ¡Listo! así de fácil y rápido podrás empezar a disfrutar de esta experiencia.
 ## Agrega tu tarjeta
@@ -21793,7 +21803,7 @@ Selecciona tu tarjeta Banco de Occidente con la que deseas realizar el pago.
 ¡Acerca tu dispositivo al datáfono y listo!
 Compra de forma segura, ya no tendrás que pasar tu tarjeta de crédito. Tu información y la de tu tarjeta nunca será compartida con el comercio.
 Acerca tu celular o dispositivo donde tengas tu billetera Google Pay y realiza pagos fácil y rápido.
-Inscribe todas tus tarjetas de crédito Mastercard y Visa sin costo, para disfrutar de esta experiencia de pago
+Inscribe todas tus tarjetas Débito Mastercard sin costo, para disfrutar de esta experiencia de pago.
 Podrás pagar en los comercios físicos, online y aplicaciones móviles que soporten Google Pay.
 ## ¿Qué necesitas para utilizar tu billetera Google Pay?
 ## ¿Qué tarjeta puedes usar en Google Pay?
@@ -21801,6 +21811,14 @@ Podrás pagar en los comercios físicos, online y aplicaciones móviles que sopo
 ## ¿Qué debo hacer en Google Pay si recibo una nueva tarjeta?
 ## ¿Qué debo hacer si pierdo o me roban el dispositivo?
 ## ¿El banco cobra comisión por el uso de la billetera?
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/google-wallet -->
+URL: https://www.bancodeoccidente.com.co/google-wallet
+# Google Wallet
+Ingresa a la App Google Pay y añade tus tarjetas de crédito Mastercard y Visa Banco de Occidente en la opción “Tarjeta de pago”.
+Inscribe todas tus tarjetas de crédito Mastercard y Visa sin costo, para disfrutar de esta experiencia de pago
 
 ────────────────────────────────────────
 
@@ -22756,7 +22774,7 @@ En estos simples pasos te explicamos cómo puedes inscribir y pagar tus tarjetas
 
 
 ============================================================
-# CATEGORÍA: CREDITOS  (99 documentos)
+# CATEGORÍA: CREDITOS  (101 documentos)
 ============================================================
 
 <!-- fuente: https://webavc.bancodeoccidente.com.co/wps/portal/banco-de-occidente/bancodeoccidente/footer/otros/educacion-financiera -->
@@ -22817,6 +22835,10 @@ Queremos acompañarte en donde estés. Aprende cómo usar correctamente la asist
 <!-- fuente: https://www.bancodeoccidente.com.co -->
 URL: https://www.bancodeoccidente.com.co
 # Banco de Occidente - Productos y servicios bancarios en línea
+## Estamos trabajando para ti
+Informamos a nuestros clientes que el domingo 17 de mayo, entre las 00:00 am y las 5:00 am, estaremos realizando mantenimiento a nuestros canales electrónicos; durante este tiempo nuestros canales no estarán disponibles, por lo que no se podrán realizar transacciones con cuentas de ahorros y corrientes. Te recomendamos realizarlas antes de este horario.
+A su vez, el lunes 18 de mayo, entre las 00:00 am y las 5:00 am, estaremos realizando mantenimiento a nuestros canales electrónicos; durante este tiempo nuestros canales no estarán disponibles, por lo que no se podrán realizar transacciones con cuentas de ahorros y corrientes. Te recomendamos realizarlas antes de este horario.
+Sus transacciones de compras con tarjeta de crédito no se verán afectadas.
 ¡Tienes que tenerla!
 Solicita y utiliza tu tarjeta VISA.
 Usa tu tarjeta Credencial Visa y podrás ganar premios exclusivos para que vivas este evento al máximo.
@@ -23359,6 +23381,32 @@ Apertura una cuenta diseñada para las necesidades de tu empresa.
 
 ────────────────────────────────────────
 
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=HomeCreditos&utm_campaign=CardPP -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=HomeCreditos&utm_campaign=CardPP
+# Crédito de Libre Inversión en línea | Banco de Occidente
+## Características y condiciones del crédito Libre Inversión
+#### 1,72% M.V 22,71% E.A
+### PLAZOS DESDE 12 MESES HASTA
+### DESDE 2 MILLONES HASTA
+## Beneficios que te ofrece el Banco de Occidente para tu crédito de Libre Inversión
+### Tasa de interés exclusiva por aprobación en línea.
+### Desde 2 hasta 180 millones dependiendo de tu capacidad de pago.
+### Cuota y tasa fija durante todo el ciclo de tu crédito.
+### Plazos desde 12 hasta 72 meses.
+### Consulta y paga tus cuotas a través del portal bancario o banca móvil.
+### Puedes programar el débito automático de tu cuota desde tu cuenta de Banco de Occidente.
+## Requisitos para obtener muy fácil tu crédito de Libre Inversión
+### Tener cédula de ciudadanía colombiana.
+### Edad mínima de 23 años y hasta los 68 años cumplidos.
+### Ser empleado o pensionado con ingresos a partir de $3.050.000 pesos.
+### Antigüedad laboral igual o superior a 6 meses.
+La cuota mensual de un crédito de libre inversión se calcula con base en los siguientes factores: el monto solicitado, el plazo seleccionado y la tasa de interés vigente, utilizando un sistema de amortización de cuota fija.
+*Ejemplo ilustrativo: Para un crédito de $2.000.000 a 36 meses, la cuota mensual aproximada del primer mes sería de $78.315, dejando un saldo a capital de $1.969.297.
+*Este ejemplo tiene fines informativos y no constituye una oferta vinculante. Las condiciones definitivas se establecen una vez finalizado el proceso de análisis y aprobación.
+## Cali, Colombia, Carrera 4 # 7-63 (o 7-61) Piso 1
+
+────────────────────────────────────────
+
 <!-- fuente: https://www.bancodeoccidente.com.co/licitacion-banca-seguros -->
 URL: https://www.bancodeoccidente.com.co/licitacion-banca-seguros
 # Licitación Compañías Aseguradoras | Banco de Occidente
@@ -23389,12 +23437,21 @@ Obten hasta el 100% de la financiación.
 En la financiación de tu crédito de vehículo.
 ### Servicio de postventa
 Te ofrecemos un acompañamiento completo en todo el ciclo del crédito.
-### ¿Te interesa comprar la
-cartera de tu vehículo?
+### Compra de cartera de vehículo con tasa preferencial.
 - Te compramos desde $50,000,000
-- Con tasa de interes competitivas
+- Tasa competitiva y pagos flexibles.
+- Aprobación inmediata.
+¡Además, cubrimos gastos de traspaso hasta en un 100%!
 ## Solicita ya tu crédito de vehículo
 © Todos los Derechos Reservados. www.bancodeoccidente.com.co 21.0.1
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/occiauto/autogestionado? -->
+URL: https://www.bancodeoccidente.com.co/occiauto/autogestionado?
+### ¿Te interesa comprar la
+cartera de tu vehículo?
+- Con tasa de interes competitivas
 
 ────────────────────────────────────────
 
@@ -24552,17 +24609,17 @@ PUEDE CONSULTAR LAS TASAS DE LOS PRODUCTOS Y SERVICIOS, INGRESANDO
 ## Cupo línea Préstamo Personal
 ## LIBRE INVERSIÓN  COMPRA DE CARTERA
 ## Desde Hasta Desde Hasta
-Tasa M.V  1,56% 1,99% 1,35% 1,99%
-Tasa E.A  20,41% 26,68% 17,46% 26,68%
+Tasa M.V  1,56% 2,08% 1,35% 2,08%
+Tasa E.A  20,41% 28,02% 17,46% 28,02%
 * Las tasas pueden variar dependiendo del monto, el plazo y el perfil crediticio del cliente.
-* Vigencia del 01 al 30 de Abril de 2026
+* Vigencia del 01 al 31 de Mayo de 2026
 ## Cupo línea Crédito Rotativo
-Tasa M.V  1,56% 1,93% 1,35% 1,93%
-Tasa E.A  20,41% 25,78% 17,46% 25,78%
+Tasa M.V  1,56% 2,02% 1,35% 2,02%
+Tasa E.A  20,41% 27,12% 17,46% 27,12%
 ## Ahorro e Inversión:
 ## Cuenta Corriente
 ## Períodos  Tasa Efectiva  Tasa Nominal Vencida
-## Tasa Diaria 26,61% 23,60%
+## Tasa Diaria 28,02% 24,71%
 ## Cuenta de Ahorros Occidia
 * 1. Las tasas de ahorro para montos superiores a $1.000 MM, deben de consultarse en Tesorería, en caso que la tabla de arriba
 * 2. Para obtener remuneración sobre la totalidad del saldo diario en cuenta que exceda el tope de $3.000 MM, se debe solicitar
@@ -24590,14 +24647,14 @@ $1 - 99 Millones  $100 - 499
 Millones  $500 - 10.000 Millones
 30 Días (30 Hasta 50 Días) 0,05% 0,05% 0,05%
 60 Días (51 Hasta 80 Días) 0,05% 0,05% 0,05%
-90 Días (81 Hasta 150 Días) 11,05% 11,15% 11,25%
-90 Días exactos base 360 o real  11,05% 11,15% 11,25%
-180 Días (151 Hasta 240 Días) 11,20% 11,30% 11,40%
-270 Días (241 Hasta 330 Días) 11,70% 11,80% 11,90%
-360 Días (331 Hasta 539 Días) 12,10% 12,20% 12,30%
-540 Días (540 Hasta 719 Días) 12,45% 12,45% 12,55%
-720 Días (720 Hasta 1079 Días) 12,45% 12,45% 12,55%
-1080 Días ( Mayor o Igual a 1080 Días) 12,45% 12,45% 12,55%
+90 Días (81 Hasta 150 Días) 10,90% 11,00% 11,10%
+90 Días exactos base 360 o real  10,90% 11,00% 11,10%
+180 Días (151 Hasta 240 Días) 11,00% 11,10% 11,20%
+270 Días (241 Hasta 330 Días) 11,50% 11,60% 11,70%
+360 Días (331 Hasta 539 Días) 11,85% 11,95% 12,05%
+540 Días (540 Hasta 719 Días) 12,20% 12,20% 12,30%
+720 Días (720 Hasta 1079 Días) 12,20% 12,20% 12,30%
+1080 Días ( Mayor o Igual a 1080 Días) 12,20% 12,20% 12,30%
 ## Tasas de Captación de CDT LARGO PLAZO
 ## Plazo IPC %EA  IBR %MV
 90 Días
@@ -24606,11 +24663,11 @@ Millones  $500 - 10.000 Millones
 18 Meses 3,60% 0,35%
 2 Años 3,80% 0,20%
 3 Años  3,90% 0,00%
-* Vigencia del 21 al 27 de Abril de 2026
+* Vigencia del 12 al 19 de Mayo de 2026
 La tasa de interés corriente y mora se determina teniendo en cuenta la tasa de usura fijada mes a mes por la Superintendencia
 Financiera de Colombia.
-## Tasa compra y avances 26,61% 23,60%
-## Mora 26,61% 23,60%
+## Tasa compra y avances 28,02% 24,71%
+## Mora 28,02% 24,71%
 * Tasa de interés corriente para compras:  En las compras realizadas con Tarjeta de Crédito los intereses corrientes se liquidan
 mes vencido y la liquidación de éstos se genera a partir de la fecha de la transacción. El primer cobro se ve reflejado en el
 segundo extracto después de haber realizado la transacción de Compra. Se aplica la tasa vigente de la fecha de la transacción.
@@ -24620,8 +24677,8 @@ el siguiente extracto, sin importar que se registre el pago total del saldo. Se 
 ## Visa Cuota Fija
 ## Clásica Mastercard
 ## Financiera de Colombia
-## Tasa compra y avances 26,61% 23,60% 22,21% 20,23%
-## Mora 26,61% 23,60% 26,61% 23,60%
+## Tasa compra y avances 28,02% 24,71% 23,58% 21,36%
+## Mora 28,02% 24,71% 28,02% 24,71%
 Para Avances en Efectivo y Pago de Impuestos (Oficina Banco):  En las transacciones de avances en efectivo e Impuestos
 Aplicación de Tasa Representativa del Mercado a su PAGO EN PESOS de consumos en dólares.
 Tenga en cuenta que el valor registrado en su extracto para PAGO EN PESOS de consumos en dólares con su Tarjeta Credencial
@@ -24668,16 +24725,17 @@ Cuentas AFC.
 ## Para todo monto 1,00%
 ## Vehículos Livianos
 ## MODELO TIPO DE TASA  Desde
-Nuevo* TASA m.v. 1,45%
+Nuevo* TASA m.v. 1,41%
+TASA E.A. 18,33%
+Usado* TASA m.v. 1,45%
 TASA E.A. 18,92%
-Usado* TASA m.v. 1,49%
-TASA E.A. 19,49%
 ## Transportador - Autos
-Nuevo* M.V. 1,85%
-## Usado* 1,89%
-Nuevo* M.V. 1,55%
-## Usado* 1,59%
+Nuevo* M.V. 1,81%
+## Usado* 1,85%
+Nuevo* M.V. 1,51%
+## Usado* 1,55%
 ## Motos Alto Cilindraje
+TASA E.A. 18,36%
 La asignación de la tasa depende del análisis interno que realice el Banco de Occidente, esta información es
 meramente informativa y no constituye ningún compromiso formal ni legal.
 Notas: 1- Todas las Tasas son variables y atadas a la IBR nominal a tres meses, más los puntos correspondientes
@@ -25033,6 +25091,7 @@ Consulta aquí los bienes para la venta que el Banco de Occidente tiene disponib
 XZU710L                     Año: 2019           Precios de referencia   $110.000.000
 ### Recibe asesoría para tu próxima inversión
 ## Deja tus datos aquí:
+Los datos personales que nos compartas, nos permitirán asesorarte mejor.
 
 ────────────────────────────────────────
 
@@ -40766,7 +40825,7 @@ Conoce los beneficios que tienes con este seguro que se adapta a todas tus neces
 
 
 ============================================================
-# CATEGORÍA: DIGITAL  (55 documentos)
+# CATEGORÍA: DIGITAL  (58 documentos)
 ============================================================
 
 <!-- fuente: https://www.bancodeoccidente.com.co/ayuda/reversion-pagos -->
@@ -40822,6 +40881,21 @@ Términos y Condiciones de la campaña “Registra tus llaves y gana con el Banc
 Gestiona tu cuenta de manera rápida y sencilla desde la comodidad de tu hogar.
 #### Adquiérelo con un asesor
 Recibe asesoría personalizada para encontrar la Tarjeta que mejor se adapte a tus necesidades.
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=InternaPP&utm_campaign=BannerInter -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=InternaPP&utm_campaign=BannerInter
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=InternaPP&utm_campaign=BannerPpal -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=InternaPP&utm_campaign=BannerPpal
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=InternaPP&utm_campaign=Solicitar -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=InternaPP&utm_campaign=Solicitar
 
 ────────────────────────────────────────
 
@@ -40906,7 +40980,6 @@ URL: https://www.bancodeoccidente.com.co/web/empresas/pagos
 Transfiere dinero a cuentas de cualquier banco de forma segura.
 ### Impuestos Nacionales
 Paga tributos nacionales con facilidad y seguridad en línea.
-### Impuestos Territoriales
 Realiza el pago de impuestos departamentales y municipales.
 ### Seguridad Social - PILA
 Gestiona los aportes de tu empresa a la seguridad social.
@@ -43154,7 +43227,7 @@ Entrevista a Sandra Catalina Yepes, CEO y Cofundadora Roma. Las redes sociales s
 
 
 ============================================================
-# CATEGORÍA: LEGAL  (14 documentos)
+# CATEGORÍA: LEGAL  (15 documentos)
 ============================================================
 
 <!-- fuente: https://www.bancodeoccidente.com.co/ayuda/linea-conciliacion-negociacion -->
@@ -43286,6 +43359,45 @@ Reglamentación incumplimiento de obligaciones por fuerza mayor (Secuestro y des
 ## ¿Para qué sirven los reportes positivos y negativos en las centrales de riesgo?
 ## ¿Dónde puedo validar el comportamiento financiero reportada por la entidad?
 ## ¿El Banco debe notificar a los clientes antes de hacer un reporte negativo en las centrales riesgo?
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/web/empresas/paga-tus-impuestos -->
+URL: https://www.bancodeoccidente.com.co/web/empresas/paga-tus-impuestos
+# Paga tus Impuestos - Empresas
+## ¿Por qué es importante pagar los impuestos
+El pago de impuestos contribuye al desarrollo del país y de nuestras regiones. Gracias a estos recursos, el Estado puede garantizar servicios esenciales y realizar obras que benefician a toda la comunidad.
+#### Apoyo a los servicios esenciales
+Financian la educación, la salud, la seguridad y otros servicios esenciales.
+#### Desarrollo de ciudades y municipios
+Apoyan la construcción y mantenimiento de vías, hospitales, colegios y proyectos sociales.
+#### Evitas sanciones y recargos
+El pago oportuno previene multas, intereses y procesos administrativos.
+#### Fortalecimiento económico
+Contribuyen a la sostenibilidad financiera del país y las regiones.
+#### Una sociedad más equitativa
+Permiten apoyar a poblaciones vulnerables y reducir brechas sociales.
+### Consulta sobre los diferentes impuestos en Colombia, organizados de manera clara según la entidad que los administra y el lugar donde aplican.
+### Impuestos Nacionales y Aduanas
+### Son los impuestos administrados a nivel nacional y que aplican en todo el territorio colombiano.
+Son los impuestos administrados a nivel nacional y que aplican en todo el territorio colombiano.
+• Impuestos pagados
+por personas naturales y empresas al Estado.
+• Impuestos relacionados
+con operaciones de comercio
+exterior y aduanas.
+Consulta impuestos nacionales y trámites de importación.
+### Impuestos Territoriales
+### Son los impuestos administrados a nivel departamental y municipal.
+Son los impuestos administrados a nivel departamental y municipal.
+• Dependen de la ciudad o departamento donde vivas o desarrolles tu actividad económica.
+• Son administrados por alcaldías y gobernaciones, como el predial, vehicular, ICA y reteICA.
+Consulta impuestos aplicables en tu ciudad o departamento.
+## Consulta las tasas para el pago de impuestos con
+tu tarjeta de crédito Banco de Occidente
+Consulta las tasas vigentes y condiciones aplicables para el pago de impuestos con tarjetas de crédito Banco de Occidente.
+## Nota: Las tasas y condiciones están sujetas a cambios según las políticas vigentes del Banco de Occidente.
+Nota: Las tasas y condiciones están sujetas a cambios según las políticas vigentes del Banco de Occidente.
 
 ────────────────────────────────────────
 
@@ -43496,7 +43608,7 @@ Abre tu Cuenta de Ahorros con el Banco de Occidente que tiene una rentabilidad d
 
 
 ============================================================
-# CATEGORÍA: GENERAL  (355 documentos)
+# CATEGORÍA: GENERAL  (361 documentos)
 ============================================================
 
 <!-- fuente: https://www.bancodeoccidente.com.co/creatucuentaahorros/?utm_source=AliadosPromociones&utm_medium=CardColor&utm_campaign=CtaAhKuboPromociones -->
@@ -43766,6 +43878,36 @@ URL: https://www.bancodeoccidente.com.co/en/bre-b?utm_source=web&utm_medium=Home
 
 <!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto -->
 URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=Brujula -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=Brujula
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=CardClic -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=CardClic
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=CardClic&utm_term=Destacados&utm_content=9_02_26 -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=CardClic&utm_term=Destacados&utm_content=9_02_26
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=LITasaViaje&utm_content=15_04_26 -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=LITasaViaje&utm_content=15_04_26
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=Menu -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=Home&utm_campaign=Menu
+
+────────────────────────────────────────
+
+<!-- fuente: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=TercerNivel&utm_campaign=Interesar -->
+URL: https://www.bancodeoccidente.com.co/libre-inversion-autogestion-flujo-corto/?utm_source=web&utm_medium=TercerNivel&utm_campaign=Interesar
 
 ────────────────────────────────────────
 
