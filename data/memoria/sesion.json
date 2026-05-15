@@ -4,35 +4,75 @@
   "messages": [
     {
       "type": "human",
-      "content": "hola"
-    },
-    {
-      "type": "ai",
-      "content": "¡Hola! ¿En qué puedo ayudarte hoy como tu asistente del Banco de Occidente?"
-    },
-    {
-      "type": "human",
-      "content": "que banco eres?"
-    },
-    {
-      "type": "ai",
-      "content": "Soy el Asistente Virtual Oficial del Banco de Occidente. Somos una entidad financiera colombiana, fundada en 1965, y formamos parte del Grupo Aval.\n\nMi propósito es brindarte información exclusiva sobre nuestros productos, servicios e información corporativa.\n\n¿Hay algo específico del Banco de Occidente en lo que pueda asistirte hoy?"
-    },
-    {
-      "type": "human",
-      "content": "tienes creditos para carro"
-    },
-    {
-      "type": "ai",
-      "content": "¡Claro que sí! En el Banco de Occidente te ofrecemos el Crédito de Vehículo para que puedas financiar la compra de tu carro nuevo o usado, destinado a uso personal. Puedes gestionar este crédito de forma completamente virtual.\n\nCon nuestro crédito, tienes la posibilidad de obtener hasta el 100% de financiación, lo que significa que puedes adquirir tu vehículo sin cuota inicial. Además, te brindamos la flexibilidad de elegir un plazo de financiación de hasta 84 meses para que pagues cómodamente.\n\nContamos con tasas especiales para este tipo de crédito, y si traes tu nómina al banco, podrás disfrutar de tasas preferenciales y otros beneficios. También te ofrecemos un acompañamiento completo en todo el ciclo del crédito a través de nuestro servicio de postventa, y la opción de proteger tu auto con un seguro todo riesgo."
-    },
-    {
-      "type": "human",
       "content": "me ayudan a comprar el carro osea le hacen perito"
     },
     {
       "type": "ai",
       "content": "Entiendo tu pregunta sobre el peritaje del carro. Sin embargo, no cuento con información específica sobre si el Banco de Occidente realiza directamente el peritaje como parte del proceso del crédito de vehículo.\n\nTe sugiero que para obtener detalles precisos sobre este punto, te comuniques directamente con nuestra línea de atención o visites una de nuestras sucursales. Allí podrán brindarte la información más actualizada y completa sobre el proceso de compra y financiación de tu vehículo."
+    },
+    {
+      "type": "human",
+      "content": "¿Qué servicios ofrece el banco?"
+    },
+    {
+      "type": "ai",
+      "content": "En el Banco de Occidente, ofrecemos una variedad de servicios diseñados para facilitar sus operaciones financieras.\n\nEntre nuestros servicios, contamos con:\n*   **Pasarela de Pagos**: Un servicio para comercios que permite realizar cobros a clientes de forma electrónica, aceptando diversos métodos de pago como PSE, tarjeta de crédito, tarjeta débito y efectivo. Adicionalmente, incluye servicios de valor agregado como la construcción de la página web del comercio y la integración de botones de pago.\n*   **Domiciliación de pagos personales**: Le permite autorizar al Banco para que realice periódicamente el pago de sus servicios públicos y/o privados y telefonía celular, con débito a su cuenta.\n*   **Administración de productos**: Facilita la consulta de movimientos, descarga de extractos y gestión de sus cuentas. También puede abrir cuentas y acceder a servicios sin necesidad de visitar una oficina.\n*   **Transporte de Efectivo para empresas**: Un servicio que facilita a las empresas la movilización de dinero entre su oficina y el Banco o viceversa, utilizando transportadoras de valores con procesos seguros, carros blindados y tripulantes idóneos, ofreciendo flexibilidad horaria para la recolección.\n\n¿Hay algún servicio en particular sobre el que le gustaría obtener más información?"
+    },
+    {
+      "type": "human",
+      "content": "dimelo en un fila"
+    },
+    {
+      "type": "ai",
+      "content": [
+        {
+          "type": "text",
+          "text": "El Banco de Occidente ofrece servicios como pasarela de pagos para comercios, domiciliación de pagos personales, administración de productos financieros y transporte de efectivo para empresas.",
+          "extras": {
+            "signature": "CoQEAQw51sdc1YsVuHF4oacD9CTfssFsxl0t97/289weW4mb+ZEKqLUAuiBqg1TtfxggO0vPP3t3dakSI+PX72STQNVemLhDFW03Y7WH9LIspTXv4/EWU3iw0BU1iqkmKqw3ihggUl9EJDOuxCbP4BT1xKh/0m7DXB2vRLww2lOzUDTHQ27Udl3guH7gJRAR0Vu6Z6rYk8E9Iv42WgaUQYUczeKAlUxpztsnqRpaRpWzMcwVvrE42Z7UREklXfQc7fcibVztJwTQDDInqnudTrj1udZPFXfquJjhtRpnBeXWbtKLxlO/I9P+TaHxmXtkCgd32jChMFrbYoFpagcDibwuFuYMXtelIymSlxT9G/B+LCKw6j1xG/BYt0LOgwt61Me/hLZ2UcCLOH5Dq6yUf6Vaq+jQ+VJH3ypwxCvN0jj1Q8OiACJ0HErV4sfUq8HUJhKSohPd4jLlQr9Wxlep81MwBoY3DGbebVqsVM2c38bmDrwuglwhBCJdOp6rpMeaS4J3EcFqnAMtZCH8ZLPRe0Ej8MpQHGG1cr0mqfe1bwqytMg8vXrmw0zxsYaox7j4xQytyAxr+P4IkFXIYXh+g32Qos6ki+NiCcBJ0rkEt7kNk/uTddlWFguaborjVRt0Un4L3sQGlyhvCVFum0NDTWxhCRpN5nc1G/4btwQXGw1yhmnwGYlP"
+          }
+        }
+      ]
+    },
+    {
+      "type": "human",
+      "content": "mas resumido"
+    },
+    {
+      "type": "ai",
+      "content": [
+        {
+          "type": "text",
+          "text": "Ofrecemos soluciones de pago, gestión de cuentas y servicios empresariales.",
+          "extras": {
+            "signature": "Cs8KAQw51sfSu3uwtGSLKQOH2SUm+RvSrwK3p8YyNnnb4PhmccO3rgP46YAFZ7EvIv8OeeJi0gsDbVCIjyJI1sGjqsjwKrQ9AltGLgckTZQ7vsgILab90+XO7h62nHYB8mSqomh+j6GeO8+24zZDzDZvJKX653vXQTEnkSJpcd+HDkfq1qchsf8TAG+gIWC4DbUn7lKYUfoBjcweFYElMrHeLM1XjTCJdXJ8QlyNrfgfqwloFsx4JGUZmzLj2g0S3AYTe6f0hPsgPuVU/3slP5902z7BmkIDGHdRwvr4hUWYsBOKahAY5JxFwDWLWigoDo4w8a5uxf0twq6bN7dcRzERRTuJxftVwDbTApIaJfeNRFNZcODYM/Wqnt0svSKH/BFuu8q8GEzRX1X8ym+dhmfEfD1QEEVATWlSNZ9MTev81ROxOrLLu8jmZB8/fuj69EapObY9XmUxEl8p1wbvvU+rRnnAsiwfisGKiLo9EZfG85ADueYiACrwyoFn3hE6qPp/gYyr2sr1kbuwxNcM0D5OOZItqFMK7fhmlei+pR3sfrblEqyu0FfLE+GWcG38OLJgWNRXdt94z5I047jLVN9g0cwT6uQ+mvgE7d6Wuc6H4jC0bASDU4gZ89XVh79UFVmySrhIsu2h+gZVpDy0vc0qtf+vUs2jZEqqcbeyuCTvqzo0c1jjet0uL75S1tKHYcJ4aaMWHm6IB2PXUhkfoIUgTt8cAwxitbMCHKgCrJ2/EfrrvPzEiVgVN8gXQWOeF7CuO4agt/o0GEipWJ15cBUPLzEFWXzQ9IhuXFfbeHHZmveT5DajklIgJf4YNXN54lgc9XDYNrF5ITpBDAysBwm+JprrAjXw7mNwsNWTpXDJwbqjm7eERVjNzkCzSVx/T9yi1061AqfCFwBkTKHgTZeYhtAfnXXunJDPSKxW6ZJdHIFYFl+vKPoT4CZxU41IR7HhWfJ41BwN0lOrT8Z3FCDFqIyvvsy5tZJAjtkXBmM9zs/AdFE6Oyv8GBfwPQ4sYe7kpbVSSWNpfPfgPMWBc9oJhy50wd8JcKYt5MFBJ69lzoQnCzRbvsyTV7P/b1P7A2LEgy5ptlnoty/XD5MQntnDmgtYgKkv7/Srsj6qEas1I82JXucCVxTAPBrBF0hDUC9VX+CclDo4Nkk54rEghVb0/GTnIfhe1kq0MCAsSC1O1+CB0wL76gBUEmUaCfHsmhZ0dXShn9o9ZZO65c7t9Lz+wTJasiJZk2IbZ0edzc/tE95KiTtrYHtc7mxv4jCTOndBH4mrPCG8/m+z+REv804v8OomDFLRoyZR2fG8E/vL97vswRTFJwSa6pEK8+OnQGlB9rzl2hhezS1N83g+ypPtmHOO8ArlqklEri3wIMjT9wx0lmfSXdTeuv0xvE5b47PW1MTwU+fcD1dEy0c7adEbNjPfoT2MGPnh9gpB3JrZxxGuxbAqjxYXpoiLmbKzH8UvQHVr53h+Ik15tTZzdKHPioLOv0T36FxRnID1tkavCqmC0v2VWu4TAFoEQQXkm3/FFq1HeNBjNk7JNImyIpILbTT7mr9pIdj6DR2k+rlZP1nKJX9LKhkgCzlqg8SoIZUIYDdNQPLqgbz/iE4q+eLhcfb2RiEPFh42m8dPkIAy/cGVcd/cFfpCipAxQYRf7U00vNfytvLah5o1U5wdBF81b7SmrbV1xM8YLL+jnH3zPxxk42OgVljmD7f0qhO/iPZ4hLFvkNA3ghQ8UdTv2WygB0JfkC4jeDaI2f/c//HhFI9J6ODexk/8R9S6q4hLfbysoy7lL0O6zPpq56pR7JcQ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "human",
+      "content": "Eso aplica para empresas?"
+    },
+    {
+      "type": "ai",
+      "content": [
+        {
+          "type": "text",
+          "text": "Sí, los servicios que mencioné aplican para empresas. Específicamente, la pasarela de pagos está diseñada para comercios, la gestión de cuentas es relevante tanto para personas como para empresas, y el transporte de efectivo es un servicio exclusivo para empresas.",
+          "extras": {
+            "signature": "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"
+          }
+        }
+      ]
+    },
+    {
+      "type": "human",
+      "content": "¿Cuál es el NIT del banco?"
+    },
+    {
+      "type": "ai",
+      "content": "⚠️ Error al procesar la consulta: Error calling model 'gemini-2.5-flash' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. Fo"
     }
   ]
 }
